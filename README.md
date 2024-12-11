@@ -2,4 +2,4 @@
 
 Mapping between relationships on OWASP Top 10 for LLM Applications as well as map against OWASP Top 10 for Web and MITRE ATLAS
 
-![Uploading OWASP Top 10 for LLM Applications.png…]()
+![Alternative text](OWASP Top 10 for LLM Applications.png)
